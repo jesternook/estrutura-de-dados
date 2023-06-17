@@ -14,7 +14,6 @@ var ListaDeCompras = /** @class */ (function () {
         var indexProduto = this.itens.indexOf(nomeProduto);
         this.itens.splice(indexProduto, 1);
         this.quantidade.splice(indexProduto, 1);
-        return "Item removido com sucesso";
     };
     ListaDeCompras.prototype.listarItens = function () {
         for (var i = 0; i < this.itens.length; i++) {
@@ -32,4 +31,5 @@ novaLista.adicionarItem("Chá de canela", 1);
 novaLista.adicionarItem("Requeijão", 1);
 //remover itens
 novaLista.removerItem('Maça');
+//listar itens
 novaLista.listarItens();
