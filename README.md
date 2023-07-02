@@ -1,6 +1,6 @@
 # 7 Days Of Code - Estrutura de Dados 
 
-Desafio de 7 dias de código da Alura para práticas estruturas de dados, cada dia uma estrutura difente.
+Desafio de 7 dias de código da Alura para práticar estruturas de dados, cada dia uma estrutura diferente.
 
 📅 Iniciado: 16/06/2023
 #
