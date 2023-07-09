@@ -10,5 +10,5 @@ Desafio de 7 dias de código da Alura para práticar estruturas de dados, cada d
 - [x]   3 : Lista Duplamente Encadeada *(29/06/23)*
 - [x]   4 : Fila *(02/07/23)*
 - [x]   5 : Pilha *(02/07/23)*
-- [ ]   6 : HashMaps
+- [x]   6 : HashMaps *(08/07/2023)*
 - [ ]   7 : Árvore
